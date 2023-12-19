@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i'm Youssef, i'm currently learning English and JavaScript 
+i"m a front-end developper.
+ask me about my culture
+I'm looking to collaborate in Learning Enghlish and Git
+- 📫 How to reach me: telegram @wyecce
